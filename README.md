@@ -19,3 +19,7 @@ SIFT Feature Matching - Used a set of SIFT features to track a particular object
 Fundamental Matrix - Used Epipolar Geometry constraints along with feature matching to detect epipolar lines.
 
 Structure from Motion -  Using tracked features, generated structure from a set of images in motion. generated the camera rotation and translation path.
+
+SLIC Super-Pixels - Image segmentation using SLIC superpixels and evaluatiion of the Berkley Segmentation Database.
+
+GraphCut Segmentation - Segmentation of images using Graph Cut in MATLAB.
